@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: auto
 }
 
 html {
@@ -77,6 +78,7 @@ body {
     border-bottom: 1px solid #811547;
   }
 
+
 .section_profile{
     display: flex;
     justify-content: space-around;
@@ -120,4 +122,5 @@ body {
     font-size: 20px;
     line-height: 25px;
     justify-content: center;
-    list-style: none;}
+    list-style: none;
+}
